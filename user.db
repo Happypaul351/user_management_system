@@ -1,0 +1,92 @@
+users = [
+    {   
+        id: 1
+        first_name: "Bassey",
+        last_name: "Ekong",
+        email: "bassyekong@outlook.com",
+        sex: "M",
+        date_of_birth: "1994_06_20",
+        country: "Nigeria"
+    },
+    {  
+        id: 2,
+        first_name: "Angela",
+        last_name: "Mike",
+        email: "mikeangela@gmail.com",
+        sex: "F",
+        date_of_birth: "2001_09_02",
+        country: "United States"
+    },
+    {  
+        id: 3,
+        first_name: "Chris",
+        last_name: "Michael",
+        email: "mikechris@gmail.com",
+        sex: "M",
+        date_of_birth: "1990_01_03",
+        country: "Brazil"
+    },
+    {
+        id: 4,
+        first_name: "Yuri",
+        last_name: "Hiroshima",
+        email: "yurihirosima@yahoo.com",
+        sex: "M",
+        date_of_birth: "2000_09_09",
+        country: "Japan"
+    },
+    {
+        id: 5,
+        first_name: "Jane",
+        last_name: "Doe",
+        email: "janedoe@gmail.com",
+        sex: "F",
+        date_of_birth: "2000_05_02",
+        country: "Senegal"
+    },
+    {   
+        id: 6,
+        first_name: "Peter",
+        last_name: "Pan",
+        email: "panpeter@gmail.com",
+        sex: "M",
+        date_of_birth: "2001_09_02",
+        country: "Russia"
+    },
+    {
+        id: 7,
+        first_name: "Princess",
+        last_name: "Moana",
+        email: "hiprincessmoana@gmail.com",
+        sex: "F",
+        date_of_birth: "2004_04_10",
+        country: "Canada"
+    },
+    {
+        id: 8,
+        first_name: "Julia",
+        last_name: "Roberts",
+        email: "juliaroberts@gmail.com",
+        sex: "F",
+        date_of_birth: "1976_12_15",
+        country: "Switzerland"
+    },
+    {
+        id: 9,
+        first_name: "Rodriga",
+        last_name: "chu",
+        email: "rodrigachu@gmail.com",
+        sex: "F",
+        date_of_birth: "2001_09_02",
+        country: "Spain"
+    },
+    {
+        id: 10,
+        first_name: "Abubakar",
+        last_name: "Hassan",
+        email: "abubakarhassan@gmail.com",
+        sex: "M",
+        date_of_birth: "1998_07_03",
+        country: "Myanmar"
+    }
+]
